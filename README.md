@@ -1,0 +1,1 @@
+I wanted to create yara rules and files which is detected that yara rules but when i do that i didnt want to deal with firewall to so i created files which is corrupted/unreal files to meet the need.
